@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "totalRevenue": 142850.00,
+    "revenueChange": 12.4,
+    "totalOrders": 1240,
+    "ordersChange": 8.2,
+    "averageOrderValue": 115.20,
+    "aovChange": 3.8,
+    "conversionRate": 2.4,
+    "conversionChange": -0.5
+  },
+  "revenueTrend": [
+    { "name": "Jan", "revenue": 12400, "orders": 110 },
+    { "name": "Feb", "revenue": 15600, "orders": 135 },
+    { "name": "Mar", "revenue": 18200, "orders": 160 },
+    { "name": "Apr", "revenue": 16900, "orders": 145 },
+    { "name": "May", "revenue": 22100, "orders": 190 },
+    { "name": "Jun", "revenue": 28400, "orders": 240 },
+    { "name": "Jul", "revenue": 29250, "orders": 260 }
+  ],
+  "categoryBreakdown": [
+    { "name": "Electronics", "value": 57140, "percentage": 40, "color": "#3b82f6" },
+    { "name": "Apparel", "value": 35712, "percentage": 25, "color": "#10b981" },
+    { "name": "Home & Kitchen", "value": 28570, "percentage": 20, "color": "#f59e0b" },
+    { "name": "Office Supplies", "value": 14285, "percentage": 10, "color": "#8b5cf6" },
+    { "name": "Books", "value": 7143, "percentage": 5, "color": "#ec4899" }
+  ],
+  "orders": [
+    { "id": "ORD-1024", "customer": "Sarah Jenkins", "email": "sarah.j@example.com", "date": "2026-07-06", "amount": 249.99, "status": "Completed", "category": "Electronics" },
+    { "id": "ORD-1023", "customer": "Michael Chen", "email": "m.chen@example.com", "date": "2026-07-06", "amount": 89.50, "status": "Processing", "category": "Home & Kitchen" },
+    { "id": "ORD-1022", "customer": "Emma Rodriguez", "email": "emma.r@example.com", "date": "2026-07-05", "amount": 15.20, "status": "Completed", "category": "Books" },
+    { "id": "ORD-1021", "customer": "David Kim", "email": "d.kim@example.com", "date": "2026-07-05", "amount": 420.00, "status": "Completed", "category": "Electronics" },
+    { "id": "ORD-1020", "customer": "Olivia Taylor", "email": "olivia.t@example.com", "date": "2026-07-04", "amount": 112.40, "status": "Pending", "category": "Apparel" },
+    { "id": "ORD-1019", "customer": "James Wilson", "email": "j.wilson@example.com", "date": "2026-07-04", "amount": 64.99, "status": "Shipped", "category": "Home & Kitchen" },
+    { "id": "ORD-1018", "customer": "Sophia Martinez", "email": "sophia.m@example.com", "date": "2026-07-03", "amount": 35.00, "status": "Cancelled", "category": "Office Supplies" },
+    { "id": "ORD-1017", "customer": "Alexander Wright", "email": "a.wright@example.com", "date": "2026-07-03", "amount": 189.90, "status": "Completed", "category": "Apparel" }
+  ]
+}
