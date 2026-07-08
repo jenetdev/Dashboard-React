@@ -1,4 +1,4 @@
-name: Ops Ledger CI/CD
+name: Dashboard React CI/CD Pipeline
 
 on:
   push:

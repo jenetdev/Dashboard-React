@@ -1,5 +1,5 @@
 {
-  "name": "Ops Ledger",
+  "name": "Ledger Dashboard",
   "description": "Modern revenue and orders dashboard with trends, category breakdowns, and transaction records.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
