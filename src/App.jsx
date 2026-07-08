@@ -266,7 +266,7 @@ export default function App() {
           <div>
             <div className="flex items-center gap-2 text-indigo-600 dark:text-indigo-400 font-semibold text-xs tracking-wider uppercase mb-1">
               <Layers size={13} strokeWidth={2.5} />
-              <span>Ledger Dashboard</span>
+              <span>Ledger dassssssssss</span>
             </div>
             <h1 className="text-xl sm:text-2xl font-bold text-slate-950 dark:text-white tracking-tight">
               Revenue &amp; Orders Controller
