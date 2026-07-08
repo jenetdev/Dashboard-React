@@ -1,6 +1,4 @@
-<div align="center">
-React Dashboard
-</div>
+# React Analytics Dashboard
 
 # Technical Stack
 
